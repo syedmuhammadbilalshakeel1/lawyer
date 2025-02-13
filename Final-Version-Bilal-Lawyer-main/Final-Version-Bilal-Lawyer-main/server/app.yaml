@@ -1,0 +1,4 @@
+runtime: nodejs16
+
+env_variables:
+  MONGO_URL: "mongodb+srv://test:7799Jx8FlX1sn5Jd@cluster0.w75u20v.mongodb.net/geniosclub"
